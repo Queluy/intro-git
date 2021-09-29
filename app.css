@@ -5,8 +5,9 @@
 }
 
 #container{
-	width: 1200px;
+	width: 1000px;
 	margin: 0 auto;
+	box-shadow: 3px 3px 3px gray;
 }
 
 #content > h1 {
