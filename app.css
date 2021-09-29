@@ -5,13 +5,13 @@
 }
 
 #container{
-	width: 80%;
+	width: 800px;
 	margin: 0 auto;
-	box-shadow: 0 0 0 darkgray;
+	box-shadow: 3px 3px 3px gray;
 }
 
 #content > h1 {
-	text-align: center;
-	font-family:Verdana, Geneva, Tahoma, sans-serif;
-	color: lightcoral;
+	text-align: right;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: darkgreen;
 }
